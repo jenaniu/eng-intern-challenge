@@ -1,23 +1,3 @@
-// check if inserted string is Braille or String
-// if text is Braille, convert into string
-// if text is English, convert into braille
-// some sort of string that contains braille or Eng, and check if against inpiut
-// when the string is converted, converts based on an array of text (braille or eng)
-// if letter is capital or has the capital letter string, need to capitalize english or add the braille symbol
-
-
-// stringInput = string
-// braille = braille array
-// english = english array
-
-//  if content in stringInput contains braille
-// convert content into english
-// go through array of English characters and change
-
-// if content in stringInput is English 
-// convert into Braille based on array
-
-// output is translated text
 
 const engBraille = [
     { eng: 'a', braille: '0.....' },
